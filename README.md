@@ -9,11 +9,9 @@
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3&height=300&section=header&text=ChaeYeon%20Lee&fontSize=90" style="max-width: 100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3&height=300&section=header&text=ChaeYeon%20Lee&desc=Machine Learning and Development&fontSize=70&fontAlignY=38&descAlignY=50&descAlign=58" style="max-width: 100%"/>
    
  [![Tech Blog Badge](http://img.shields.io/badge/-naver%20blog-lightgreen?style=flat-square&logo=naver&link=https://blog.naver.com/chland23)](https://blog.naver.com/chland23) </br>
- 
-  💬 Machine Learning and Development, from Data to Algorithms <br>
   💬 Be a good person to myself! <br>
   
   <p></p>
