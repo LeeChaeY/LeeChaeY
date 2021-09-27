@@ -24,11 +24,8 @@
   <br/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&Studio&logoColor=white"/></a>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeChaeY&show_icons=true&theme=merko)
-
-</div>
+  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&Studio&logoColor=white"/></a
+  </div>
 
 ## 🌱Projects
 | **Date** | **contents** | **Algorithm** |
@@ -40,3 +37,5 @@
 | 2021.07 ~ 2022.08 | 인공지능에 의한 동작인식 기반 피트니스 운동 추천 시스템 | Azure Kinect 활용 |
 </br>
 </br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeChaeY&show_icons=true&theme=merko)
