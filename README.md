@@ -9,7 +9,7 @@
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3&height=240&section=header&text=ChaeYeon%20Lee&desc=Machine Learning and Development&fontSize=70&fontAlignY=38&descAlignY=50&descAlign=58" style="max-width: 100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3&height=230&section=header&text=ChaeYeon%20Lee&desc=Machine Learning and Development&fontSize=70&fontAlignY=35&descAlignY=50&descAlign=58" style="max-width: 100%"/>
  
   💬 Be a good person to myself! [![Tech Blog Badge](http://img.shields.io/badge/-naver%20blog-lightgreen?style=flat-square&logo=naver&link=https://blog.naver.com/chland23)](https://blog.naver.com/chland23)
   
