@@ -34,8 +34,6 @@
 | 2021.03 ~ 2021.06 | 소셜미디어 데이터를 활용한 탈모 성분 효과 예측 | Pytorch-BERT |
 | 2021.07 ~ 2022.02 | BERT를 이용한 약물부작용 시그널 파악 시스템 | Bio-BERT&Knowledge graph |
 | 2021.07 ~ 2022.08 | 인공지능에 의한 동작인식 기반 피트니스 운동 추천 시스템 | Azure Kinect 활용 |
-</br>
-</br>
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeChaeY&show_icons=true&theme=merko)
