@@ -9,12 +9,10 @@
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3&height=300&section=header&text=ChaeYeon%20Lee&desc=Machine Learning and Development&fontSize=70&fontAlignY=38&descAlignY=50&descAlign=58" style="max-width: 100%"/>
-   
- [![Tech Blog Badge](http://img.shields.io/badge/-naver%20blog-lightgreen?style=flat-square&logo=naver&link=https://blog.naver.com/chland23)](https://blog.naver.com/chland23) </br>
-  💬 Be a good person to myself! <br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3&height=240&section=header&text=ChaeYeon%20Lee&desc=Machine Learning and Development&fontSize=70&fontAlignY=38&descAlignY=50&descAlign=58" style="max-width: 100%"/>
+ 
+  💬 Be a good person to myself! [![Tech Blog Badge](http://img.shields.io/badge/-naver%20blog-lightgreen?style=flat-square&logo=naver&link=https://blog.naver.com/chland23)](https://blog.naver.com/chland23)
   
-  <p></p>
   <div align = "center">
   <h3 align="center">🛠️ Skills 🛠️</h3>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
