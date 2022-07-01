@@ -32,8 +32,8 @@
 | 2020.01 | 리뷰를 활용한 나에게 맞는 호텔 찾기 | Sentiment Analysis |
 | 2021.02 ~ 2021.07 | <a href="https://github.com/LeeChaeY/Recommendation-system-for-moving-areas">이사 지역 추천 시스템</a> | Recommendation system |
 | 2021.03 ~ 2021.06 | <a href="https://github.com/LeeChaeY/A-system-to-predict-the-effects-of-hair-loss"/>소셜미디어 데이터를 활용한 탈모 성분 효과 예측</a> | Pytorch-BERT |
-| 2021.07 ~ 2022.02 | <a href="https://github.com/LeeChaeY/Drug-side-effects-signal-identification-system"/>약물부작용 시그널 예측&파악 시스템 - FC-BERT(Filtering Clinical BERT) </a> | Bio-BERT&Clinical BERT |
-| 2021.07 ~ 2022.08 | 인공지능에 의한 동작인식 기반 피트니스 운동 추천 시스템 | Azure Kinect 활용 |
+| 2021.07 ~ ing | <a href="https://github.com/LeeChaeY/Drug-side-effects-signal-identification-system"/>약물부작용 시그널 예측&파악 시스템 - FC-BERT(Filtering Clinical BERT) </a> | Bio-BERT&Clinical BERT |
+| 2021.07 ~ 2022.07 | 인공지능에 의한 동작인식 기반 피트니스 운동 추천 시스템 | Azure Kinect 활용 |
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeChaeY&show_icons=true&theme=merko)
