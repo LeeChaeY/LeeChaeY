@@ -9,7 +9,7 @@
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3&height=230&section=header&text=ChaeYeon%20Lee&desc=Machine Learning and Development&fontSize=70&fontAlignY=35&descAlignY=50&descAlign=58" style="max-width: 100%"/>
+ ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3&height=230&section=header&text=ChaeYeon%20Lee&desc=Machine%20Learningand%20Development&fontSize=70&fontAlignY=35&descAlignY=50&descAlign=58&style="max-width:100%")
  
   💬 Be a good person to myself! [![Tech Blog Badge](http://img.shields.io/badge/-naver%20blog-lightgreen?style=flat-square&logo=naver&link=https://blog.naver.com/chland23)](https://blog.naver.com/chland23)
   
@@ -32,7 +32,8 @@
 | 2020.01 | 리뷰를 활용한 나에게 맞는 호텔 찾기 | Sentiment Analysis |
 | 2021.02 ~ 2021.07 | <a href="https://github.com/LeeChaeY/Recommendation-system-for-moving-areas">이사 지역 추천 시스템</a> | Recommendation system |
 | 2021.03 ~ 2021.06 | <a href="https://github.com/LeeChaeY/A-system-to-predict-the-effects-of-hair-loss"/>소셜미디어 데이터를 활용한 탈모 성분 효과 예측</a> | Pytorch-BERT |
-| 2021.07 ~ ing | <a href="https://github.com/LeeChaeY/Drug-side-effects-signal-identification-system"/>약물부작용 시그널 예측&파악 시스템 - FC-BERT(Filtering Clinical BERT) </a> | Bio-BERT&Clinical BERT |
+| 2021.07 ~ 2022.09 | <a href="https://github.com/LeeChaeY/Drug-side-effects-signal-identification-system"/>약물부작용 시그널 예측&파악 시스템 - FC-BERT(Filtering Clinical BERT) </a> | Bio-BERT&Clinical BERT |
+| 2021.07 ~ 2022.09 | <a href="https://github.com/LeeChaeY/Drug-side-effects-signal-identification-system"/>약물부작용 시그널 예측&파악 시스템 - FC-BERT(Filtering Clinical BERT) </a> | Bio-BERT&Clinical BERT |
 | 2021.07 ~ 2022.07 | 인공지능에 의한 동작인식 기반 피트니스 운동 추천 시스템 | Azure Kinect 활용 |
 
 <!--
