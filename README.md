@@ -14,22 +14,43 @@
   💬 Be a good person to myself! [![Tech Blog Badge](http://img.shields.io/badge/-naver%20blog-lightgreen?style=flat-square&logo=naver&link=https://blog.naver.com/chland23)](https://blog.naver.com/chland23)
   
   ## 🛠️ Tech Stack 🛠️
-  <h4>Use Well</h4>
-  <br>
+  <h4> Use Well
+  <br><br>
   <p>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-4479A1?style=flat-square&logo=Oracle&Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R Studio-4479A1?style=flat-square&logo=R Studio&Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-4479A1?style=flat-square&logo=Django&Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache Spark-007396?style=flat-square&logo=Apache Spark&logoColor=white"/>
+  </p>
+  
+  <h4> Available Skills
+  <br><br>
+  <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Red Hat-EE0000?style=flat-square&logo=RedHat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&Studio&logoColor=white"/>
+  </p>
+   
+  <img src="https://img.shields.io/badge/Red Hat-EE0000?style=flat-square&logo=RedHat&logoColor=white"/>
+  
+  
+  
   </p>
   
   <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&Studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&Studio&logoColor=white"/>
+  
   <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&Studio&logoColor=white"/>
   </div>
   
