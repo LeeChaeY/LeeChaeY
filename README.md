@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
@@ -56,7 +56,11 @@
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&Studio&logoColor=white"/>
   </p>
   <br>
-
+  
+  ## 📫 Find Me 📫
+  <a href="mailto:chland23@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&Studio&logoColor=white"/></a>
+  [![Tech Blog Badge](http://img.shields.io/badge/-Naver%20Blog-03C75A?style=flat-square&logo=naver&logoColor=white&link=https://blog.naver.com/chland23)](https://blog.naver.com/chland23)
+  <br>
 
 ## 🌱Projects
 | **Date** | **contents** | **Algorithm** |
