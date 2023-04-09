@@ -8,14 +8,18 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3&height=230&section=header&text=ChaeYeon%20Lee&desc=Machine%20Learning%20and%20Development&fontSize=70&fontAlignY=35&descAlignY=50&descAlign=58&style="max-width:100%")
  
-  💬 Be a good person to myself! 
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=230&section=header&text=ChaeYeon%20Lee&desc=Machine%20Learning%20and%20Development&fontSize=70&fontAlignY=35&descAlignY=50&descAlign=58" /> 
+ 
+ 
+ 💬 Be a good person to myself! 
+  <a href="mailto:chland23@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&Studio&logoColor=white"/></a>
+  [![Tech Blog Badge](http://img.shields.io/badge/-Naver%20Blog-03C75A?style=flat-square&logo=naver&logoColor=white&link=https://blog.naver.com/chland23)](https://blog.naver.com/chland23)
+  <br><br>
   
   ## 🛠️ Tech Stack 🛠️
   <h4> Use Well
-  <br></br>
+  <br><br>
   <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&Studio&logoColor=white"/>
@@ -26,7 +30,7 @@
   </p>
   
   <h4> Available Skills
-  <br></br>
+  <br><br>
   <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
@@ -43,7 +47,7 @@
   </p>
   
   <h4> Techs that I've used at least once
-  <br></br>
+  <br><br>
   <p>
   <img src="https://img.shields.io/badge/Red Hat-EE0000?style=flat-square&logo=RedHat&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&Studio&logoColor=white"/>
@@ -55,11 +59,6 @@
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&Studio&logoColor=white"/>
   </p>
-  <br>
-  
-  ## 📫 Find Me 📫
-  <a href="mailto:chland23@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&Studio&logoColor=white"/></a>
-  [![Tech Blog Badge](http://img.shields.io/badge/-Naver%20Blog-03C75A?style=flat-square&logo=naver&logoColor=white&link=https://blog.naver.com/chland23)](https://blog.naver.com/chland23)
   <br>
 
 ## 🌱Projects
@@ -73,6 +72,7 @@
 | 2021.07 ~ 2022.09, <br> 2022.12 ~ | <a href="https://github.com/LeeChaeY/Filtering-Clinical-BERT-with-Web-Application"/> FC-BERT(Filtering Clinical BERT) with Web Application </a> | Bio-BERT & Clinical-BERT & Django |
 | 2022.09 ~ 2022.12 | <a href="https://github.com/LeeChaeY/Donation-System-Website-with-JDBC"/> Donation System Website with JDBC </a> | Java 11 & JDBC & MyBatis |
 
+<br>
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeChaeY&show_icons=true&theme=merko)
 -->
