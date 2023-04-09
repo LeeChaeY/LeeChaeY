@@ -11,56 +11,52 @@
 
  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3&height=230&section=header&text=ChaeYeon%20Lee&desc=Machine%20Learning%20and%20Development&fontSize=70&fontAlignY=35&descAlignY=50&descAlign=58&style="max-width:100%")
  
-  💬 Be a good person to myself! [![Tech Blog Badge](http://img.shields.io/badge/-naver%20blog-lightgreen?style=flat-square&logo=naver&link=https://blog.naver.com/chland23)](https://blog.naver.com/chland23)
+  💬 Be a good person to myself! 
   
   ## 🛠️ Tech Stack 🛠️
   <h4> Use Well
-  <br><br>
+  <br></br>
   <p>
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&Studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-4479A1?style=flat-square&logo=Oracle&Studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R Studio-4479A1?style=flat-square&logo=R Studio&Studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-4479A1?style=flat-square&logo=Django&Studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache Spark-007396?style=flat-square&logo=Apache Spark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R Studio-75AADB?style=flat-square&logo=RStudio&Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=Apache Spark&logoColor=white"/>
   </p>
   
   <h4> Available Skills
-  <br><br>
+  <br></br>
   <p>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&Studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&Studio&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&Studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&Studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&Studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&Studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=JQuery&Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&Studio&logoColor=white"/>
   </p>
-   
+  
+  <h4> Techs that I've used at least once
+  <br></br>
+  <p>
   <img src="https://img.shields.io/badge/Red Hat-EE0000?style=flat-square&logo=RedHat&logoColor=white"/>
-  
-  
-  
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&Studio&logoColor=white"/>
   </p>
-  
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&Studio&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&Studio&logoColor=white"/>
-  </div>
-  
-  
-  
-  <details>
-    <summary>자세히</summary>
+  <br>
 
-
-</details>
 
 ## 🌱Projects
 | **Date** | **contents** | **Algorithm** |
