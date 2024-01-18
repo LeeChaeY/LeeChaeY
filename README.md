@@ -73,7 +73,7 @@
 | 2021.07 ~ 2022.09 | <a href="https://github.com/LeeChaeY/Drug-side-effects-signal-identification-system"/>약물부작용 시그널 예측&파악 시스템 - FC-BERT(Filtering Clinical BERT) </a> | Bio-BERT & Clinical-BERT |
 | 2021.07 ~ 2022.09, <br> 2022.12 ~ 2023.05 | <a href="https://github.com/LeeChaeY/Filtering-Clinical-BERT-with-Web-Application"/> FC-BERT(Filtering Clinical BERT) with Web Application </a> | Bio-BERT & Clinical-BERT & Django |
 | 2022.09 ~ 2022.12 | <a href="https://github.com/LeeChaeY/Donation-System-Website-with-JDBC"/> Donation System Website with JDBC </a> | Java 11 & JDBC & MyBatis & Oracle |
-| 2023.07 ~ 2024.01 | <a href="https://github.com/LeeChaeY/"/> Cornsotry Web System </a> | Java 17 & MyBatis & JSP & MySQL & Spring Boot & Node.js & NCP & Jenkins & Docker |
+| 2023.07 ~ 2024.01 | <a href="https://github.com/LeeChaeY/Cornstory"/> Cornsotry Web System </a> | Java 17 & MyBatis & JSP & MySQL & Spring Boot & Node.js & NCP & Jenkins & Docker |
 
 <br>
 <!--
