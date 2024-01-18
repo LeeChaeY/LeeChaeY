@@ -71,7 +71,7 @@
 | 2021.03 ~ 2021.06 | <a href="https://github.com/LeeChaeY/A-system-to-predict-the-effects-of-hair-loss"/>소셜미디어 데이터를 활용한 탈모 성분 효과 예측</a> | Pytorch-BERT & KoBERT |
 | 2021.07 ~ 2022.07 | 인공지능을 활용한 동작인식 기반 피트니스 운동 추천 시스템 | Azure Kinect 활용 |
 | 2021.07 ~ 2022.09 | <a href="https://github.com/LeeChaeY/Drug-side-effects-signal-identification-system"/>약물부작용 시그널 예측&파악 시스템 - FC-BERT(Filtering Clinical BERT) </a> | Bio-BERT & Clinical-BERT |
-| 2021.07 ~ 2022.09, <br> 2022.12 ~ | <a href="https://github.com/LeeChaeY/Filtering-Clinical-BERT-with-Web-Application"/> FC-BERT(Filtering Clinical BERT) with Web Application </a> | Bio-BERT & Clinical-BERT & Django |
+| 2021.07 ~ 2022.09, <br> 2022.12 ~ 2023.05 | <a href="https://github.com/LeeChaeY/Filtering-Clinical-BERT-with-Web-Application"/> FC-BERT(Filtering Clinical BERT) with Web Application </a> | Bio-BERT & Clinical-BERT & Django |
 | 2022.09 ~ 2022.12 | <a href="https://github.com/LeeChaeY/Donation-System-Website-with-JDBC"/> Donation System Website with JDBC </a> | Java 11 & JDBC & MyBatis & Oracle |
 | 2023.07 ~ 2024.01 | <a href="https://github.com/LeeChaeY/"/> Cornsotry Web System </a> | Java 17 & MyBatis & JSP & MySQL & Spring Boot & Node.js & NCP & Jenkins & Docker |
 
